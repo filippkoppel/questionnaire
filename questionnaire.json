@@ -1,0 +1,5 @@
+{
+  "resourceType": "Questionnaire",
+  "status": "active",
+  "item": [{"linkId": "patientname", "type": "text", "text": "Patsiendi nimi"}]
+}
